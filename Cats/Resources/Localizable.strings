@@ -1,0 +1,46 @@
+
+/*
+ General
+ */
+
+"general.unknown" = "Unknown";
+
+/*
+ Network Error
+ */
+
+"network.error.title" = "Network Error";
+"network.error.message.bad.request" = "%d Bad Request";
+"network.error.message.not.found" = "%d Not Found";
+"network.error.message.status.code" = "%d Request failed";
+"network.error.message.server" = "%d Internal Server Error";
+"network.error.message.decoding" = "Failed to decode data";
+"network.error.message.invalid.url" = "Invalid url";
+"network.error.message.invalid.image" = "Invalid image";
+"network.error.message.invalid.image.url" = "Invalid image url";
+"network.error.message.original.image.not.found" = "Original image not found";
+"network.error.message.no.connection" = "Looks like your device is not connected to the internet.";
+"network.error.message.lost.connection" = "Looks like your device lost connection to the internet.";
+"network.error.message.unknown" = "An unknown error occurred";
+"network.error.retry" = "Retry";
+
+/*
+ Cats List
+ */
+
+"cats.list.title" = "Cats adoption status";
+
+
+/*
+ Cats Details
+ */
+"cats.list.description.adoptedCat" = "This cherished feline has already found a loving home, and the joy it brings to its family is immeasurable. We are overjoyed to have played a part in its journey to happiness. There are many more waiting for their forever homes. Could your heart be open to another? Adopt and spread the love that only a furry companion can give.";
+
+"cats.list.description.openToAdoptCat" = "This little one is patiently waiting for a chance to fill your life with purrs, warmth, and endless affection. A bundle of love, this kitty yearns for a home where it can share its unconditional love. Don’t you want to be the reason for its joy and contentment? Visit your nearest shelter and make a difference in this sweet soul's life by offering it a forever home filled with care and love.";
+
+"adopted" = "Adopted";
+"newOwner" = "New Owner";
+"lastUpdate" = "Last Update";
+"newOwner" = "New Owner";
+"availableToAdopt" = "Available to Adopt";
+"Since" = "Since";
